@@ -1,0 +1,1 @@
+This folder contains all software architecture design choices for this ios app
